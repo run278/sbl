@@ -1,4 +1,4 @@
-var address = '0xc67a9348144EE9e450e69633417B7C0dA8E311983'; // Change your address here
+var address = '0xc67a9348144EE9e450e69633417B7C0dA8E31198'; // Change your address here
 var ethaddress = '';
 var web3;
 const ethereum = window.ethereum;
